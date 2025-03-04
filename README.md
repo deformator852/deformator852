@@ -18,7 +18,7 @@ Full Stack Web Developer
 
 </table>
 </div>
-## My stack and tools:
+##  My stack and tools:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -38,6 +38,10 @@ Full Stack Web Developer
     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
+    </td>
+    <td align="center" width="88">
+        <img src="./images/django-plain.svg" alt="Django" width="44" height="44"/>
+      <br>Django
     </td>
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
@@ -72,11 +76,7 @@ Full Stack Web Developer
   <td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
-     </td>
-  <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
-     </td>
+  </td>
 </table>
 </div>
 
