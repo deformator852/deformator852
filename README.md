@@ -1,7 +1,9 @@
 ## I'm
+
 Full Stack Web Developer
 
 ## Languages
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
   <tr>
@@ -19,7 +21,7 @@ Full Stack Web Developer
 </table>
 </div>
 
-##  My stack and tools:
+## My stack and tools:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -45,8 +47,8 @@ Full Stack Web Developer
       <br>Django
     </td>
     <td align="center" width="88">
-        <img src="./images/djangorest-line.svg" alt="Django Rest Framework" width="44" height="44"/>
-      <br>Django Rest Framework
+        <img src="./images/Wagtail.svg" alt="Wagtail" width="44" height="44"/>
+      <br>Wagtail
     </td>
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
@@ -92,7 +94,6 @@ Full Stack Web Developer
   </td>
 </table>
 </div>
-
 
 <!--
 **deformator852/deformator852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
