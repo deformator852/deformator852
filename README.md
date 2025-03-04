@@ -45,7 +45,7 @@ Full Stack Web Developer
       <br>Django
     </td>
     <td align="center" width="88">
-        <img src="./images/drf.png" alt="Django Rest Framework" width="44" height="44"/>
+        <img src="./images/djangorest-line.svg" alt="Django Rest Framework" width="44" height="44"/>
       <br>Django Rest Framework
     </td>
     <td align="center" width="88">
