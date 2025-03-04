@@ -47,7 +47,7 @@ Full Stack Web Developer
       <br>Django
     </td>
     <td align="center" width="88">
-        <img src="./images/Wagtail.svg" alt="Wagtail" width="44" height="44"/>
+        <img src="./images/wagtail.png" alt="Wagtail" width="44" height="44"/>
       <br>Wagtail
     </td>
     <td align="center" width="88">
