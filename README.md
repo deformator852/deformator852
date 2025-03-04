@@ -69,9 +69,17 @@ Full Stack Web Developer
         <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
+      <td align="center" width="88">
+        <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
+      <br>Redis
+     </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
+    </td>
+      <td align="center" width="88">
+         <img src="./images/linux-plain.svg" alt="Linux" width="44" height="44"/>
+      <br>Linux
     </td>
   <td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
