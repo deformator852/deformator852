@@ -85,7 +85,7 @@ Full Stack Web Developer
       <br>Git
     </td>
       <td align="center" width="88">
-         <img src="./images/linux-plain.svg" alt="Linux" width="44" height="44"/>
+         <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
     </td>
   <td align="center" width="88">
