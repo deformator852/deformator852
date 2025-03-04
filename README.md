@@ -57,7 +57,7 @@ Full Stack Web Developer
       <br>Redux
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+        <img src="./images/insomnia-original.svg" alt="Postman" width="44" height="44"/>
       <br>Insomnia
     </td>
       </td>
