@@ -18,6 +18,7 @@ Full Stack Web Developer
 
 </table>
 </div>
+
 ##  My stack and tools:
 
 <div style="display: flex; align-items: flex-start; align: center">
