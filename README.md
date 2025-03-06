@@ -110,6 +110,7 @@ Full Stack Web Developer
   </td>
 </table>
 </div>
+
 ### GitHub Stats :
 
 <table align="center">
