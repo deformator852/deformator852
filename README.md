@@ -110,6 +110,15 @@ Full Stack Web Developer
   </td>
 </table>
 </div>
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+    <td colspan=2 align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deformator852&layout=compact&theme=buefy&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **deformator852/deformator852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
