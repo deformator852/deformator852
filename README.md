@@ -95,7 +95,11 @@ Full Stack Web Developer
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
-    </td>
+      </td>
+         <td align="center" width="88">
+        <img src="./images/docker-original.svg" alt="Docker" width="44" height="44"/>
+      <br>Docker
+      </td>
       <td align="center" width="88">
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
