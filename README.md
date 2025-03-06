@@ -55,10 +55,6 @@ Full Stack Web Developer
       <br>Pytest
     </td>
     <td align="center" width="88">
-        <img src="./images/pandas-original-wordmark.svg" alt="Pandas" width="44" height="44"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="88">
         <img src="./images/django-plain.svg" alt="Django" width="44" height="44"/>
       <br>Django
     </td>
@@ -69,11 +65,6 @@ Full Stack Web Developer
     <td align="center" width="88">
         <img src="./images/wagtail.png" alt="Wagtail" width="44" height="44"/>
       <br>Wagtail
-    </td>
-      <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-      </td>
   </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -86,6 +77,11 @@ Full Stack Web Developer
       <td align="center" width="88">
         <img src="./images/insomnia-original.svg" alt="Postman" width="44" height="44"/>
       <br>Insomnia
+    </td>
+    </td>
+      <td align="center" width="88">
+       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
     </td>
       </td>
       <td align="center" width="88">
