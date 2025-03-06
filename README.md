@@ -116,7 +116,7 @@ Full Stack Web Developer
 <table align="center">
   <tr>
     <td colspan=2 align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deformator852&layout=compact&theme=buefy&hide_border=true" />
+      <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deformator852&layout=compact&theme=buefy&hide_border=true" />
     </td>
   </tr>
 </table>
