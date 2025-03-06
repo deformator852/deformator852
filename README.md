@@ -39,20 +39,36 @@ Full Stack Web Developer
       <br>JavaScript
     </td>
     <td align="center" width="88">
+        <img src="./images/jquery-original-wordmark.svg" alt="jQuery" width="44" height="44"/>
+      <br>jQuery
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
+    </td>
+    <td align="center" width="88">
+        <img src="./images/pytest-original.svg" alt="Pytest" width="44" height="44"/>
+      <br>Pytest
+    </td>
+    <td align="center" width="88">
+        <img src="./images/pandas-original-wordmark.svg" alt="Pandas" width="44" height="44"/>
+      <br>Pandas
     </td>
     <td align="center" width="88">
         <img src="./images/django-plain.svg" alt="Django" width="44" height="44"/>
       <br>Django
     </td>
     <td align="center" width="88">
-        <img src="./images/wagtail.png" alt="Wagtail" width="44" height="44"/>
-      <br>Wagtail
+        <img src="./images/Celery_logo.png" alt="Celery" width="44" height="44"/>
+      <br>Celery
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+        <img src="./images/wagtail.png" alt="Wagtail" width="44" height="44"/>
+      <br>Wagtail
     </td>
       <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
