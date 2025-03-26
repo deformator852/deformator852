@@ -39,10 +39,6 @@ Full Stack Web Developer
       <br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/jquery-original-wordmark.svg" alt="jQuery" width="44" height="44"/>
-      <br>jQuery
-    </td>
-    <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
@@ -62,18 +58,7 @@ Full Stack Web Developer
         <img src="./images/Celery_logo.png" alt="Celery" width="44" height="44"/>
       <br>Celery
     </td>
-    <td align="center" width="88">
-        <img src="./images/wagtail.png" alt="Wagtail" width="44" height="44"/>
-      <br>Wagtail
   </tr>
-    <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
-    </td>
-    <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
-    </td>
       <td align="center" width="88">
         <img src="./images/insomnia-original.svg" alt="Postman" width="44" height="44"/>
       <br>Insomnia
