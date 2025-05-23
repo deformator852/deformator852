@@ -53,6 +53,11 @@ Full Stack PHP Web Developer
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
+    </td>
+      <td align="center" width="88">
+       <img src="./images/vitejs-original.svg" alt="Vite" width="44" height="44"/>
+      <br>Vite
+    </td>
     <td align="center" width="88">
          <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
       <br>jQuery
@@ -61,19 +66,18 @@ Full Stack PHP Web Developer
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
-    <td align="center" width="88">
+  </tr>
+      <td align="center" width="88">
         <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
     </td>
     <td align="center" width="88">
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
       <br>Laravel
-    </td>
-  </tr>
-    </td>
+    </td>    </td>
       <td align="center" width="88">
-       <img src="./images/vitejs-original.svg" alt="Vite" width="44" height="44"/>
-      <br>Vite
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
     </td>
     </td>
       <td align="center" width="88">
@@ -96,11 +100,6 @@ Full Stack PHP Web Developer
       <td align="center" width="88">
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
 </table>
 </div>
 
