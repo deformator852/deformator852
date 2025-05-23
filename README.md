@@ -54,6 +54,10 @@ Full Stack PHP Web Developer
       <br>JavaScript
     </td>
     <td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>jQuery
+    </td>
+    <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
@@ -64,10 +68,6 @@ Full Stack PHP Web Developer
     <td align="center" width="88">
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
       <br>Laravel
-    </td>
-    <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
     </td>
   </tr>
     </td>
@@ -96,6 +96,10 @@ Full Stack PHP Web Developer
       <td align="center" width="88">
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
     </td>
 </table>
 </div>
