@@ -55,6 +55,10 @@ Full Stack PHP Web Developer
     </td>
     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>PHP
+    </td>
+    <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
     </td>
   </tr>
