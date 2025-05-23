@@ -70,10 +70,6 @@ Full Stack PHP Web Developer
       <br>Python
     </td>
   </tr>
-      <td align="center" width="88">
-        <img src="./images/insomnia-original.svg" alt="Postman" width="44" height="44"/>
-      <br>Insomnia
-    </td>
     </td>
       <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
@@ -88,10 +84,6 @@ Full Stack PHP Web Developer
         <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
       <br>Redis
      </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
-      </td>
          <td align="center" width="88">
         <img src="./images/docker-original.svg" alt="Docker" width="44" height="44"/>
       <br>Docker
