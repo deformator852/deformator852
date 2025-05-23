@@ -1,6 +1,6 @@
 ## I'm
 
-Full Stack Web Developer
+Full Stack PHP Web Developer
 
 ## Languages
 
@@ -17,6 +17,13 @@ Full Stack Web Developer
         🇬🇧 English - Upper intermediate
         
   </tr>
+
+  <tr>
+    
+        🇷🇺 Російська — вільно
+        
+  </tr>
+
 
 </table>
 </div>
@@ -35,6 +42,10 @@ Full Stack Web Developer
       <br>CSS3
     </td>
     <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="sass" width="44" height="44"/>
+      <br>SASS
+    </td>
+    <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
@@ -45,18 +56,6 @@ Full Stack Web Developer
     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
-    </td>
-    <td align="center" width="88">
-        <img src="./images/pytest-original.svg" alt="Pytest" width="44" height="44"/>
-      <br>Pytest
-    </td>
-    <td align="center" width="88">
-        <img src="./images/django-plain.svg" alt="Django" width="44" height="44"/>
-      <br>Django
-    </td>
-    <td align="center" width="88">
-        <img src="./images/Celery_logo.png" alt="Celery" width="44" height="44"/>
-      <br>Celery
     </td>
   </tr>
       <td align="center" width="88">
@@ -89,10 +88,6 @@ Full Stack Web Developer
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
     </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-  </td>
 </table>
 </div>
 
