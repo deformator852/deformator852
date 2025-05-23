@@ -46,6 +46,10 @@ Full Stack PHP Web Developer
       <br>SASS
     </td>
     <td align="center" width="88">
+        <img src="./images/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
@@ -54,8 +58,12 @@ Full Stack PHP Web Developer
       <br>React.js
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+        <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
+    </td>
+    <td align="center" width="88">
+        <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
+      <br>Laravel
     </td>
     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
