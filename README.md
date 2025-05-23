@@ -72,6 +72,11 @@ Full Stack PHP Web Developer
   </tr>
     </td>
       <td align="center" width="88">
+       <img src="./images/vitejs-original.svg" alt="Vite" width="44" height="44"/>
+      <br>Vite
+    </td>
+    </td>
+      <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
     </td>
