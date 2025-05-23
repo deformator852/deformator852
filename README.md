@@ -54,7 +54,7 @@ Full Stack PHP Web Developer
       <br>JavaScript
     </td>
     <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+         <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
       <br>jQuery
     </td>
     <td align="center" width="88">
