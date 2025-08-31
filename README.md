@@ -74,11 +74,7 @@ Full Stack PHP Web Developer
     <td align="center" width="88">
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
       <br>Laravel
-    </td>    </td>
-      <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
+    </td>    
     </td>
       <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
