@@ -64,7 +64,7 @@ Full Stack PHP Web Developer
     </td>
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+      <br>Vue.js
     </td>
   </tr>
       <td align="center" width="88">
