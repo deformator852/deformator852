@@ -53,7 +53,6 @@ Full Stack PHP Web Developer
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
-    </td>
       <td align="center" width="88">
        <img src="./images/vitejs-original.svg" alt="Vite" width="44" height="44"/>
       <br>Vite
@@ -63,13 +62,20 @@ Full Stack PHP Web Developer
       <br>jQuery
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+        <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
       <br>Vue.js
     </td>
-  </tr>
       <td align="center" width="88">
         <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
+    </td>
+    <td align="center" width="88">
+        <img src="./images/wordpress-original.svg" alt="Wordpress" width="44" height="44"/>
+      <br>Wordpress
+    </td>
+    <td align="center" width="88">
+        <img src="./images/drupal-original.svg" alt="Drupal" width="44" height="44"/>
+      <br>Drupal
     </td>
     <td align="center" width="88">
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
