@@ -80,11 +80,6 @@ Full Stack PHP Web Developer
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
     </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
       <td align="center" width="88">
         <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
       <br>Redis
