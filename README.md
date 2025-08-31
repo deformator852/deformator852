@@ -65,7 +65,9 @@ Full Stack PHP Web Developer
         <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
       <br>Vue.js
     </td>
-      <td align="center" width="88">
+  </tr>
+  <tr>
+          <td align="center" width="88">
         <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
     </td>
@@ -81,7 +83,6 @@ Full Stack PHP Web Developer
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
       <br>Laravel
     </td>    
-    </td>
       <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
@@ -97,6 +98,8 @@ Full Stack PHP Web Developer
       <td align="center" width="88">
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
+      </td>
+  </tr>
 </table>
 </div>
 
