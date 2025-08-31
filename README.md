@@ -72,7 +72,7 @@ Full Stack PHP Web Developer
       <br>PHP
     </td>
     <td align="center" width="88">
-        <img src="./images/wordpress-original.svg" alt="Wordpress" width="44" height="44"/>
+        <img src="./images/wordpress-plain.svg" alt="Wordpress" width="44" height="44"/>
       <br>Wordpress
     </td>
     <td align="center" width="88">
