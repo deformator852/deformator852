@@ -1,8 +1,3 @@
-    <td align="center" width="88">
-        <img src="./images/swiper.svg" alt="swiper" width="44" height="44"/>
-      <br>Swiper
-    </td>## I'm
-
 Full Stack PHP Web Developer
 
 ## Languages
