@@ -76,10 +76,6 @@ Full Stack PHP Web Developer
       <br>Wordpress
     </td>
     <td align="center" width="88">
-        <img src="./images/drupal-original.svg" alt="Drupal" width="44" height="44"/>
-      <br>Drupal
-    </td>
-    <td align="center" width="88">
         <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
       <br>Laravel
     </td>    
