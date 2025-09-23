@@ -67,7 +67,11 @@ Full Stack PHP Web Developer
     </td>
   </tr>
   <tr>
-          <td align="center" width="88">
+    <td align="center" width="88">
+        <img src="./images/bootstrap.svg" alt="PHP" width="44" height="44"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="88">
         <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
     </td>
