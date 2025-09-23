@@ -65,18 +65,18 @@ Full Stack PHP Web Developer
       <br>Vite
     </td>
     <td align="center" width="88">
-         <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
-      <br>jQuery
+        <img src="./images/typescript.svg" alt="PHP" width="44" height="44"/>
+      <br>Typescript
     </td>
   </tr>
   <tr>
     <td align="center" width="88">
-        <img src="./images/typescript.svg" alt="PHP" width="44" height="44"/>
-      <br>Typescript
-    </td>
-    <td align="center" width="88">
         <img src="./images/bootstrap.svg" alt="Bootstrap" width="44" height="44"/>
       <br>Bootstrap
+    </td>
+    <td align="center" width="88">
+         <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
+      <br>jQuery
     </td>
     <td align="center" width="88">
          <img src="./images/alpine.svg" alt="Alpine" width="44" height="44"/>
