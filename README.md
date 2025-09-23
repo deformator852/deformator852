@@ -72,7 +72,7 @@ Full Stack PHP Web Developer
       <br>Typescript
     </td>
     <td align="center" width="88">
-        <img src="./images/bootstrap.svg" alt="PHP" width="44" height="44"/>
+        <img src="./images/bootstrap.svg" alt="Bootstrap" width="44" height="44"/>
       <br>Bootstrap
     </td>
     <td align="center" width="88">
@@ -84,15 +84,15 @@ Full Stack PHP Web Developer
       <br>HTMX
     </td>
     <td align="center" width="88">
-         <img src="./images/cypress.svg" alt="htmx" width="44" height="44"/>
+         <img src="./images/cypress.svg" alt="Cypress" width="44" height="44"/>
       <br>Cypress
     </td>
     <td align="center" width="88">
-         <img src="./images/material.svg" alt="htmx" width="44" height="44"/>
+         <img src="./images/material.svg" alt="Material design" width="44" height="44"/>
       <br>Material design
     </td>
     <td align="center" width="88">
-         <img src="./images/livewire.svg" alt="htmx" width="44" height="44"/>
+         <img src="./images/livewire.svg" alt="Livewire" width="44" height="44"/>
       <br>Livewire
     </td>
   </tr>
