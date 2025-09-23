@@ -88,7 +88,7 @@ Full Stack PHP Web Developer
       <br>Cypress
     </td>
     <td align="center" width="88">
-         <img src="./images/cypress.svg" alt="htmx" width="44" height="44"/>
+         <img src="./images/material.svg" alt="htmx" width="44" height="44"/>
       <br>Material design
     </td>
     <td align="center" width="88">
