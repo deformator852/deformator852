@@ -1,4 +1,7 @@
-## I'm
+    <td align="center" width="88">
+        <img src="./images/swiper.svg" alt="swiper" width="44" height="44"/>
+      <br>Swiper
+    </td>## I'm
 
 Full Stack PHP Web Developer
 
@@ -46,6 +49,10 @@ Full Stack PHP Web Developer
       <br>SASS
     </td>
     <td align="center" width="88">
+        <img src="./images/less.svg" alt="less" width="44" height="44"/>
+      <br>Less
+    </td>
+    <td align="center" width="88">
         <img src="./images/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
@@ -91,19 +98,9 @@ Full Stack PHP Web Developer
          <img src="./images/livewire.svg" alt="Livewire" width="44" height="44"/>
       <br>Livewire
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="88">
+        <td align="center" width="88">
         <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
       <br>Vue.js
-    </td>
-    <td align="center" width="88">
-        <img src="./images/swiper.svg" alt="swiper" width="44" height="44"/>
-      <br>Swiper
-    </td>
-    <td align="center" width="88">
-        <img src="./images/less.svg" alt="less" width="44" height="44"/>
-      <br>Less
     </td>
   </tr>
   <tr>
@@ -127,9 +124,13 @@ Full Stack PHP Web Developer
         <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
       <br>Redis
      </td>
-         <td align="center" width="88">
+      <td align="center" width="88">
         <img src="./images/docker-original.svg" alt="Docker" width="44" height="44"/>
       <br>Docker
+      </td>
+      <td align="center" width="88">
+         <img src="./images/nginx.svg" alt="Nginx" width="44" height="44"/>
+      <br>Nginx
       </td>
       <td align="center" width="88">
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
