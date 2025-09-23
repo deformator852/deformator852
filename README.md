@@ -61,10 +61,6 @@ Full Stack PHP Web Developer
          <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
       <br>jQuery
     </td>
-    <td align="center" width="88">
-        <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
-      <br>Vue.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="88">
@@ -88,12 +84,26 @@ Full Stack PHP Web Developer
       <br>Cypress
     </td>
     <td align="center" width="88">
-         <img src="./images/material.svg" alt="Material design" width="44" height="44"/>
+         <img src="./images/materialui.svg" alt="Material design" width="44" height="44"/>
       <br>Material design
     </td>
     <td align="center" width="88">
          <img src="./images/livewire.svg" alt="Livewire" width="44" height="44"/>
       <br>Livewire
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="88">
+        <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
+      <br>Vue.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/swiper.svg" alt="swiper" width="44" height="44"/>
+      <br>Swiper
+    </td>
+    <td align="center" width="88">
+        <img src="./images/less.svg" alt="less" width="44" height="44"/>
+      <br>Less
     </td>
   </tr>
   <tr>
