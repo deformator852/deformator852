@@ -68,9 +68,35 @@ Full Stack PHP Web Developer
   </tr>
   <tr>
     <td align="center" width="88">
+        <img src="./images/typescript.svg" alt="PHP" width="44" height="44"/>
+      <br>Typescript
+    </td>
+    <td align="center" width="88">
         <img src="./images/bootstrap.svg" alt="PHP" width="44" height="44"/>
       <br>Bootstrap
     </td>
+    <td align="center" width="88">
+         <img src="./images/alpine.svg" alt="Alpine" width="44" height="44"/>
+      <br>Alpine
+    </td>
+    <td align="center" width="88">
+         <img src="./images/htmx.svg" alt="htmx" width="44" height="44"/>
+      <br>HTMX
+    </td>
+    <td align="center" width="88">
+         <img src="./images/cypress.svg" alt="htmx" width="44" height="44"/>
+      <br>Cypress
+    </td>
+    <td align="center" width="88">
+         <img src="./images/cypress.svg" alt="htmx" width="44" height="44"/>
+      <br>Material design
+    </td>
+    <td align="center" width="88">
+         <img src="./images/livewire.svg" alt="htmx" width="44" height="44"/>
+      <br>Livewire
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="88">
         <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
