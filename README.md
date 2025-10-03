@@ -66,10 +66,6 @@ Full Stack Javascript Developer
       <br>Next.js
     </td>
     <td align="center" width="88">
-        <img src="./images/nodejs-original.svg" alt="node.js" width="44" height="44"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="88">
          <img src="./images/astro-original.svg" alt="Astro.js" width="44" height="44"/>
       <br>Astro.js
     </td>
@@ -89,6 +85,10 @@ Full Stack Javascript Developer
     <td align="center" width="88">
          <img src="./images/materialui.svg" alt="Material design" width="44" height="44"/>
       <br>Material design
+    </td>
+    <td align="center" width="88">
+        <img src="./images/nodejs-original.svg" alt="node.js" width="44" height="44"/>
+      <br>Node.js
     </td>
   </tr>
   <tr>
