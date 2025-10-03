@@ -44,12 +44,12 @@ Full Stack Javascript Developer
       <br>SASS
     </td>
     <td align="center" width="88">
-        <img src="./images/less.svg" alt="less" width="44" height="44"/>
-      <br>Less
-    </td>
-    <td align="center" width="88">
         <img src="./images/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./images/react-original.svg" alt="react" width="44" height="44"/>
+      <br>React
     </td>
     <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
