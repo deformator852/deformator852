@@ -126,7 +126,7 @@ Full Stack Javascript Developer
     <br>PostgreSQL
   </td>
   <td align="center" width="88">
-      <img src="./images/supabase.original.svg" alt="Supabase" width="44" height="44"/>
+      <img src="./images/supabase-original.svg" alt="Supabase" width="44" height="44"/>
     <br>Supabase
   </td>
   <td align="center" width="88">
