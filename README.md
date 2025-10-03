@@ -1,4 +1,4 @@
-Full Stack PHP Web Developer
+Full Stack Javascript Developer
 
 ## Languages
 
