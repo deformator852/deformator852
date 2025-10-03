@@ -142,7 +142,7 @@ Full Stack Javascript Developer
     <br>Railway
   </td>
   <td align="center" width="88">
-      <img src="./images/vercel-original.svg" alt="Vercel" width="44" height="44"/>
+      <img src="./images/vercel-original-wordmark.svg" alt="Vercel" width="44" height="44"/>
     <br>Vercel
   </td>
   <td align="center" width="88">
