@@ -92,22 +92,18 @@ Full Stack Javascript Developer
     </td>
   </tr>
   <tr>
-    <td align="center" width="88">
+      <td align="center" width="88">
         <img src="./images/payload.png" alt="PayloadCMS" width="44" height="44"/>
       <br>PayloadCMS
-    </td>
-    <td align="center" width="88">
+      </td>
+      <td align="center" width="88">
         <img src="./images/express-original.svg" alt="Express" width="44" height="44"/>
       <br>Express
-    </td>
-    <td align="center" width="88">
+      </td>
+      <td align="center" width="88">
         <img src="./images/fastify-original.svg" alt="Fastify" width="44" height="44"/>
       <br>Fastify
-    </td>    
-      <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-    </td>
+      </td>    
       <td align="center" width="88">
         <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
       <br>Redis
@@ -124,6 +120,21 @@ Full Stack Javascript Developer
          <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
       <br>Linux
       </td>
+  </tr>
+  <td align="center" width="88">
+      <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="88">
+      <img src="./images/supabase.original.svg" alt="Supabase" width="44" height="44"/>
+    <br>Supabase
+  </td>
+  <td align="center" width="88">
+      <img src="./images/mongodb-original.svg" alt="MongoDB" width="44" height="44"/>
+    <br>MongoDB
+  </td>
+  <tr>
+    
   </tr>
 </table>
 </div>
