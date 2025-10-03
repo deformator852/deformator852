@@ -59,12 +59,16 @@ Full Stack Javascript Developer
         <img src="./images/react-original.svg" alt="react" width="44" height="44"/>
       <br>React
     </td>
-      <td align="center" width="88">
+  </tr>
+  <tr>
+    <td align="center" width="88">
        <img src="./images/nextjs-original.svg" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="88">
+        <img src="./images/nodejs-original.svg" alt="node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
     <td align="center" width="88">
          <img src="./images/astro-original.svg" alt="Astro.js" width="44" height="44"/>
       <br>Astro.js
@@ -88,10 +92,6 @@ Full Stack Javascript Developer
     </td>
   </tr>
   <tr>
-    <td align="center" width="88">
-        <img src="./images/nodejs-original.svg" alt="node.js" width="44" height="44"/>
-      <br>Node.js
-    </td>
     <td align="center" width="88">
         <img src="./images/payload.png" alt="PayloadCMS" width="44" height="44"/>
       <br>PayloadCMS
