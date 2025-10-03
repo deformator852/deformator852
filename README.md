@@ -122,7 +122,7 @@ Full Stack Javascript Developer
       </td>
   </tr>
   <td align="center" width="88">
-      <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <img src="./images/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/>
     <br>PostgreSQL
   </td>
   <td align="center" width="88">
@@ -132,6 +132,22 @@ Full Stack Javascript Developer
   <td align="center" width="88">
       <img src="./images/mongodb-original.svg" alt="MongoDB" width="44" height="44"/>
     <br>MongoDB
+  </td>
+    <td align="center" width="88">
+      <img src="./images/digitalocean-original.svg" alt="Digital Ocean" width="44" height="44"/>
+    <br>Digital Ocean
+  </td>
+    <td align="center" width="88">
+      <img src="./images/railway-original.svg" alt="Railway" width="44" height="44"/>
+    <br>Railway
+  </td>
+  <td align="center" width="88">
+      <img src="./images/vercel-original.svg" alt="Vercel" width="44" height="44"/>
+    <br>Vercel
+  </td>
+  <td align="center" width="88">
+      <img src="./images/gitlab-original.svg" alt="Gitlab" width="44" height="44"/>
+    <br>Gitlab
   </td>
   <tr>
     
