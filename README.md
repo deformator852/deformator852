@@ -61,13 +61,13 @@ Full Stack Javascript Developer
     </td>
       <td align="center" width="88">
        <img src="./images/nextjs-original.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next
+      <br>Next.js
     </td>
   </tr>
   <tr>
     <td align="center" width="88">
-         <img src="./images/astro-original" alt="Astro.js" width="44" height="44"/>
-      <br>Astro
+         <img src="./images/astro-original.svg" alt="Astro.js" width="44" height="44"/>
+      <br>Astro.js
     </td>
     </td>
       <td align="center" width="88">
@@ -79,14 +79,6 @@ Full Stack Javascript Developer
       <br>Jest
     </td>
     <td align="center" width="88">
-         <img src="./images/alpine.svg" alt="Alpine" width="44" height="44"/>
-      <br>Alpine
-    </td>
-    <td align="center" width="88">
-         <img src="./images/htmx.svg" alt="htmx" width="44" height="44"/>
-      <br>HTMX
-    </td>
-    <td align="center" width="88">
          <img src="./images/cypress.svg" alt="Cypress" width="44" height="44"/>
       <br>Cypress
     </td>
@@ -94,27 +86,23 @@ Full Stack Javascript Developer
          <img src="./images/materialui.svg" alt="Material design" width="44" height="44"/>
       <br>Material design
     </td>
-    <td align="center" width="88">
-         <img src="./images/livewire.svg" alt="Livewire" width="44" height="44"/>
-      <br>Livewire
-    </td>
-        <td align="center" width="88">
-        <img src="./images/vuejs-original.svg" alt="Vue.js" width="44" height="44"/>
-      <br>Vue.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="88">
-        <img src="./images/php-original.svg" alt="PHP" width="44" height="44"/>
-      <br>PHP
+        <img src="./images/nodejs-original.svg" alt="node.js" width="44" height="44"/>
+      <br>Node.js
     </td>
     <td align="center" width="88">
-        <img src="./images/wordpress-plain.svg" alt="Wordpress" width="44" height="44"/>
-      <br>Wordpress
+        <img src="./images/payload.png" alt="PayloadCMS" width="44" height="44"/>
+      <br>PayloadCMS
     </td>
     <td align="center" width="88">
-        <img src="./images/laravel-original.svg" alt="Laravel" width="44" height="44"/>
-      <br>Laravel
+        <img src="./images/express-original.svg" alt="Express" width="44" height="44"/>
+      <br>Express
+    </td>
+    <td align="center" width="88">
+        <img src="./images/fastify-original.svg" alt="Fastify" width="44" height="44"/>
+      <br>Fastify
     </td>    
       <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
