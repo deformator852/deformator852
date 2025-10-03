@@ -48,30 +48,35 @@ Full Stack Javascript Developer
       <br>Tailwind
     </td>
     <td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/typescript.svg" alt="PHP" width="44" height="44"/>
+      <br>Typescript
+    </td>
+    <td align="center" width="88">
         <img src="./images/react-original.svg" alt="react" width="44" height="44"/>
       <br>React
     </td>
+      <td align="center" width="88">
+       <img src="./images/nextjs-original.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
-      <br>JavaScript
+         <img src="./images/astro-original" alt="Astro.js" width="44" height="44"/>
+      <br>Astro
+    </td>
     </td>
       <td align="center" width="88">
        <img src="./images/vitejs-original.svg" alt="Vite" width="44" height="44"/>
       <br>Vite
     </td>
     <td align="center" width="88">
-        <img src="./images/typescript.svg" alt="PHP" width="44" height="44"/>
-      <br>Typescript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="88">
-        <img src="./images/bootstrap.svg" alt="Bootstrap" width="44" height="44"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="88">
-         <img src="./images/jquery-original.svg" alt="JS" width="44" height="44"/>
-      <br>jQuery
+        <img src="./images/jest-plain.svg" alt="jest" width="44" height="44"/>
+      <br>Jest
     </td>
     <td align="center" width="88">
          <img src="./images/alpine.svg" alt="Alpine" width="44" height="44"/>
