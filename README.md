@@ -101,8 +101,8 @@ Full Stack Javascript Developer
       <br>Express
       </td>
       <td align="center" width="88">
-        <img src="./images/fastify-original.svg" alt="Fastify" width="44" height="44"/>
-      <br>Fastify
+        <img src="./images/nestjs-original.svg" alt="Nest.js" width="44" height="44"/>
+      <br>Nest.js
       </td>    
       <td align="center" width="88">
         <img src="./images/redis-plain.svg" alt="Redis" width="44" height="44"/>
